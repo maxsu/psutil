@@ -5,6 +5,9 @@
 psutil documentation
 ====================
 
+.. toctree::
+ :maxdepth: 2
+
 Quick links
 -----------
 
